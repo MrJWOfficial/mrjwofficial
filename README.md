@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MrJWOfficial/MrJWOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Visit My Website: https://mrjwofficial.glitch.me 
 
-Visit My Website: https://mrjwofficial.glitch.me <br /> <br />
+### Socials 
+Twitter: https://twitter.com/mrjwofficial
+Email: jwofficialyt.info@gmail.com
 
-Socials: <br />
-Twitter: https://twitter.com/mrjwofficial <br />
-Email: jwofficialyt.info@gmail.com <br />
+
+### Current Projects
+Discord Testers Guide: https://dtesters.glitch.me
+No Dead Chat: https://nodeadchat.glitch.me
+No IDK: https://noidk.glitch.me
+
+### Discontinued Projects
+Ayvator: https://ayvator.glitch.me
