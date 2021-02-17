@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Visit My Website: https://mrjwofficial.glitch.me 
-<br /><br />
+Visit My Website: https://mrjwofficial.glitch.me
 
 ### Socials 
 Twitter: https://twitter.com/mrjwofficial <br />
