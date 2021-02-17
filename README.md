@@ -5,6 +5,7 @@ Visit My Website: https://mrjwofficial.glitch.me
 
 ### Socials 
 Twitter: https://twitter.com/mrjwofficial <br />
+Reddit: https://reddit.com/mrjwofficial <br />
 Email: jwofficialyt.info@gmail.com
 
 ### Current Projects
