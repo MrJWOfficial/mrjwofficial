@@ -2,7 +2,7 @@
 About Me: https://mrjw.glitch.me
 
 ## Socials 
-Website: https://mrjwofficial.glitch.me
+Website: https://mrjwofficial.glitch.me <br />
 Twitter: https://twitter.com/mrjwofficial <br />
 Reddit: https://reddit.com/mrjwofficial <br />
 
