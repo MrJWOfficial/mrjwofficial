@@ -2,9 +2,9 @@
 About Me: https://mrjw.glitch.me
 
 ## Socials 
+Website: https://mrjwofficial.glitch.me
 Twitter: https://twitter.com/mrjwofficial <br />
 Reddit: https://reddit.com/mrjwofficial <br />
-Email: jwofficialyt.info@gmail.com
 
 ## Current Projects
 Discord Testers Guide: https://dtesters.glitch.me <br />
