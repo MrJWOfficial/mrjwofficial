@@ -8,6 +8,7 @@ Reddit: https://reddit.com/mrjwofficial <br />
 
 ## Current Projects
 Discord Testers Guide: https://dtesters.glitch.me <br />
+Discord VC Game: https://github.com/MrJWOfficial/discord-vc-game
 
 ## Finished Projects
 Paimon Discord Bot: https://github.com/MrJWOfficial/paimon-discord-bot <br />
