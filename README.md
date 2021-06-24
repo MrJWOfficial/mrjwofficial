@@ -12,7 +12,7 @@ Discord VC Game: https://github.com/MrJWOfficial/discord-vc-game
 
 ## Finished Projects
 Paimon Discord Bot: https://github.com/MrJWOfficial/paimon-discord-bot <br />
-Simple Discord Bot Template: https://github.com/MrJWOfficial/https://github.com/MrJWOfficial/simple-discord-bot-template <br />
+Simple Discord Bot Template: https://github.com/MrJWOfficial/simple-discord-bot-template <br />
 No Dead Chat: https://nodeadchat.glitch.me <br />
 No IDK: https://noidk.glitch.me
 
